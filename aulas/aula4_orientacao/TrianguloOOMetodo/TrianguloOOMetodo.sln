@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloOOMetodo", "TrianguloOOMetodo\TrianguloOOMetodo.csproj", "{5044B290-3883-446A-A4C1-67128C2A08EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5044B290-3883-446A-A4C1-67128C2A08EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5044B290-3883-446A-A4C1-67128C2A08EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5044B290-3883-446A-A4C1-67128C2A08EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5044B290-3883-446A-A4C1-67128C2A08EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26B41C71-1B83-4D37-A31D-9139C0FAE7C8}
+	EndGlobalSection
+EndGlobal
