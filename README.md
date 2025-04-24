@@ -1,5 +1,7 @@
 # 🖥️ CP1 – Sistema de Controle de Produtos em C#
 
+# PAULO ANDRÉ CARMINATI - RM557881
+
 **🎯 Objetivo:**  
 Desenvolver um programa em C# que simule um sistema de controle de produtos, permitindo cadastrar dois produtos, calcular valores e aplicar descontos conforme regras abaixo.
 
